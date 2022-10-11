@@ -1,0 +1,14 @@
+{
+  "name": "multithreaded-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "happycoin-threads.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "piscina": "^3.2.0"
+  }
+}
